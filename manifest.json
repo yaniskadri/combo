@@ -1,0 +1,11 @@
+{
+
+    "name": "Combo Checker Extension",
+    "description": "Une extension chrome permettant aux salariés utilisant Combo de vérifier, exporter et analyser leurs plannings de travail.", 
+    "version": "1.0",
+    "manifest_version": 3,
+    "action" : {
+        "default_popup" : "home.html",
+        "default_icon" : "./assets/combo.jpeg"
+    }
+}
