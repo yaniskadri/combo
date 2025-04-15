@@ -6,6 +6,6 @@
     "manifest_version": 3,
     "action" : {
         "default_popup" : "home.html",
-        "default_icon" : "./assets/combo.jpeg"
+        "default_icon" : "./assets/combo_icon.jpeg"
     }
 }
